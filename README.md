@@ -1,6 +1,2 @@
 # React-seed
-Starting seed for React App without routing.
-
-    $ npm install
-    $ npm install -g webpack
-    $ webpack -w
+Simple widget that displays favorites and listening history from Hype Machine. Written in React using Google Material UI and Webpack.
